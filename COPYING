@@ -1,0 +1,42 @@
+        NEXT Praetor Public License (NPPL)
+    Version 1.0, 18 February 2026
+
+Copyright © 2026 Timofey Zakharchuk
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the provided software and documentation.
+    the "Software" is free to use,
+    copy, modify, merge, publish, and distribute the Software,
+    subject to the following conditions:
+
+1. This License applies to the original source code and assets created by the Author,
+    together with any modifications, derivative works, or redistributions thereof,
+    provided such works include attribution and comply with the conditions of this License.
+    
+2. The above copyright notice and this permission notice shall be included
+   in all copies or substantial portions of the Software.
+3. The person obtaining the Software copy and redistributing it as "endorsed/supported by (The Author/Users)"
+    is prohibited unless the Software owner has explicitly waived the rights.
+
+4. THERE IS NO WARRANTY FOR THE SOFTWARE, TO THE EXTENT PERMITTED BY APPLICABLE LAW.
+   EXCEPT WHEN OTHERWISE STATED IN WRITING, THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES
+   PROVIDE THE SOFTWARE “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED,
+   INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+   FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE
+   SOFTWARE IS WITH YOU. SHOULD THE SOFTWARE PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL
+   NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+5. If the disclaimer of warranty and limitation of liability provided above cannot be given local legal effect according to their terms,
+    reviewing courts shall apply local law that most closely approximates an absolute waiver of all civil liability in connection with the Program,
+    unless a warranty or assumption of liability accompanies a copy of the Program in return for a fee.
+
+6. if local law or other obligations prevent you from fully complying with NPPL's terms,
+    you may distribute the Software only under the minimal conditions and modifications that such law allows,
+    provided that the distribution does not remove or weaken the attribution, endorsement restriction,
+    or disclaimer of warranty contained in this License.
+
+7. You may distribute or relicense the Software under another
+    open-source license, provided that such license:
+    (a) requires the Software and its modifications to remain open-source under reciprocal terms,
+    (b) preserves the attribution and disclaimer of warranty contained in this License, and
+    (c) does not impose additional restrictions on the user's exercise of the rights granted by this License.
